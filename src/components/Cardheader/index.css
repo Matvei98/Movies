@@ -11,7 +11,11 @@ gap: 20px;
 font-size: 12px;
 padding-bottom: 35px;
 }
-
+h1{
+color: #000000;
+font-size: 20px;
+line-height: 28px;
+}
 picture{
 display: flex;
 }
