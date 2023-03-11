@@ -1,0 +1,24 @@
+.movies{
+display: flex;
+margin: 0 auto;
+gap: 36px;
+padding-left: 29px;
+padding-right: 40px;
+}
+.movie{
+display: flex;
+gap: 20px;
+font-size: 12px;
+padding-bottom: 35px;
+}
+
+picture{
+display: flex;
+}
+.text1{
+color: #827E7E;
+}
+.description{
+padding-right: 55px;
+line-height: 22px;
+}
